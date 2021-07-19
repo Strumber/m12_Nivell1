@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "ee691b53-f38a-4e76-9dbb-f2d4734992ae",
+		"name": "m12Fase3",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "{{localhost}}",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{localhost}}",
+					"host": [
+						"{{localhost}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "{{dev.domain.com}}",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{dev.domain.com}}",
+					"host": [
+						"{{dev.domain.com}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "{{pre.domain.com}}",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{pre.domain.com}}",
+					"host": [
+						"{{pre.domain.com}}"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
